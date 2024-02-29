@@ -28,12 +28,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 
 ========================================INDOSIAR==========================================
 
-#EXTINF: -1 tvg-id="Indosiar.id" tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png",group-title="EMTEK GROUP",INDOSIAR AFLAX
-#http://103.113.116.150:25461/mtm1/12345/3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP" tvg-url="https://bit.ly/JejeVisionEPG",INDOSIAR DENZ 1
@@ -43,12 +37,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP",INDOSIAR HOMETV
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP",INDOSIAR HOMETV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/94
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP",INDOSIAR HOMETV HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP",INDOSIAR HOMETV 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/621
 
@@ -58,14 +51,13 @@ http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/621
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 http://iptvtree.net:8080/c4596f70/c3848d92/162138
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP", INDOSIAR LIVE
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP", INDOSIAR FX
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP", INDOSIAR OXYGEN
-#https://iptv.febianmart.com/play.m3u8?id=indosiar
-https://pencarijanda.000webhostapp.com/oxygen/indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP", INDOSIAR OXYGEN 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=indosiar
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP",INDOSIAR VIDIO 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -84,7 +76,7 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
 =======================================MENTARI TV===========================================
 
-#EXTINF:-1 group-title="EMTEK GROUP" tvg-id="mentaritv.id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png",MENTARI TV AFLAX
+#EXTINF:-1 group-title="EMTEK GROUP" tvg-id="mentaritv.id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png",MENTARI TV FX
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://srtv.my.id/vd/play.m3u8?id=8237&type=hls
@@ -98,9 +90,8 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298546
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11801
 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png" group-title="EMTEK GROUP", MENTARI TV OXYGEN
-#https://iptv.febianmart.com/play.m3u8?id=mentaritv
-https://pencarijanda.000webhostapp.com/oxygen/mentaritv.m3u8
+#EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_mentari.png" group-title="EMTEK GROUP",MENTARI TV OXYGEN
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=mentaritv
 
 #EXTINF:-1 group-title="EMTEK GROUP" tvg-id="mentaritv.id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png",MENTARI TV IPTVTREE
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -124,33 +115,31 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=8237&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP", MOJI  HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#http://iptvtree.net:8080/F26646/f950f250/298550
-http://iptvtree.net:8080/c4596f70/c3848d92/298550
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP", MOJI  HOMETV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/23
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="EMTEK GROUP", MOJI OXYGEN
-#https://iptv.febianmart.com/play.m3u8?id=moji
-https://pencarijanda.000webhostapp.com/oxygen/moji.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP",MOJI VIDIO 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP",MOJI FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #https://srtv.my.id/vd/play.m3u8?id=206&type=hls
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
-#EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="EMTEK GROUP",MOJI VIDIO 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP", MOJI  HOMETV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/23
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP", MOJI  IPTVTREE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://iptvtree.net:8080/c4596f70/c3848d92/298550
+
+#EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="EMTEK GROUP",MOJI OXYGEN
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=moji
+
+#EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="EMTEK GROUP",MOJI VIDIO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=206&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTINF:-1 group-title="EMTEK GROUP" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png",MOJI VIDIO 3
+#EXTINF:-1 group-title="EMTEK GROUP" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png",MOJI VIDIO 2
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
 
 =====================================SCTV=============================================
@@ -165,6 +154,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/01
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
+#EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV FX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#https://srtv.my.id/vd/play.m3u8?id=204&type=hls
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
+
+
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title="EMTEK GROUP",SCTV HOMETV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/95
@@ -173,24 +169,14 @@ http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/95
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/622
 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP", SCTV OXYGEN
-#https://iptv.febianmart.com/play.m3u8?id=sctv
-https://pencarijanda.000webhostapp.com/oxygen/sctv.m3u8
-
-#EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV DIGITAL
+#EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV IPTVTREE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #https://srtv.my.id/vd/play.m3u8?id=204&type=hls
 http://iptvtree.net:8080/c4596f70/c3848d92/162141
 
-#EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#https://srtv.my.id/vd/play.m3u8?id=204&type=hls
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
-
-#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV ZOZO
-https://link.zozotv.xyz:443/rozila969/abc12345/46
+#EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV OXYGEN 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=sctv
 
 #EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV SCTV VIDIO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -212,9 +198,9 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Xye0dwc1q7gsdu4aUfOywAouEYc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="RCTI GROUP", GTV  RCTI+ HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/gtv.png" group-title="RCTI GROUP",GTV+ HD
 #EXTVLCOPT:http-user-agent=android-R+
-https://pencarijanda.000webhostapp.com/rctiplus/3.m3u8
+https://rplus.pencarijanda.workers.dev/play.m3u8?id=gtv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -228,9 +214,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-inews.rctiplus.id/inews-sdi.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/inews.png" group-title="RCTI GROUP", INEWS RCTI+ HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/inews.png" group-title="RCTI GROUP",iNews+ HD
 #EXTVLCOPT:http-user-agent=android-R+
-https://pencarijanda.000webhostapp.com/rctiplus/4.m3u8
+https://rplus.pencarijanda.workers.dev/play.m3u8?id=inews
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -269,9 +255,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/mnctv.png" group-title="RCTI GROUP", MNCTV  RCTI+ HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/mnctv.png" group-title="RCTI GROUP",MNCTV+ HD
 #EXTVLCOPT:http-user-agent=android-R+
-https://pencarijanda.000webhostapp.com/rctiplus/2.m3u8
+https://rplus.pencarijanda.workers.dev/play.m3u8?id=mnctv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -304,14 +290,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyle
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fgcHi2h8yWt6Bc3A7XSquRqWDCQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-title="RCTI GROUP", RCTI VIS+
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-
 #EXTINF:-1 group-title="RCTI GROUP"catchup="" tvg-logo="https://thumbor.prod.vidiocdn.com/fgcHi2h8yWt6Bc3A7XSquRqWDCQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg",RCTI+ 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fgcHi2h8yWt6Bc3A7XSquRqWDCQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-title="RCTI GROUP",RCTI+ HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/rcti.png" group-title="RCTI GROUP",RCTI+ HD
 #EXTVLCOPT:http-user-agent=android-R+
-https://pencarijanda.000webhostapp.com/rctiplus/1.m3u8
+https://rplus.pencarijanda.workers.dev/play.m3u8?id=rcti
 
 ================================SINDO NEWS==================================================
 
