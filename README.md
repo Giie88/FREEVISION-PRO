@@ -43,7 +43,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP",INDOSIAR HM
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP",INDOSIAR HM1
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/94
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP",INDOSIAR HM2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/621
 
@@ -106,6 +110,8 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=8237&type=hls
 
 ========================================MOJI==========================================
 
+
+
 #EXTINF:0 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="EMTEK GROUP",MOJI DZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
@@ -152,7 +158,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/01
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title="EMTEK GROUP",SCTV HM
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title="EMTEK GROUP",SCTV HM1
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/95
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title="EMTEK GROUP",SCTV HM2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/622
 
@@ -1327,430 +1337,6 @@ https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a4379
 
 
 
-==================================================================================
-                               oxygen
-==================================================================================
-
-
-=======================================aljazeera===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_aljazeera.png" group-title="oxygen", AL JAZEERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=aljazeera
-
-=====================================antv=============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png" group-title="oxygen", ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=antv
-
-========================================arirangworld==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_arirang.png" group-title="oxygen", ARIRANG WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=arirangworld
-
-=========================================b4umovieindia=========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4umovies.png" group-title="oxygen", B4U MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=b4umovieindia
-
-===========================================b4umusicindia=======================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4u.png" group-title="oxygen", B4U MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=b4umusicindia
-
-=======================================bloomberg===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_bloomberg.png" group-title="oxygen", BLOOMBERG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=bloomberg
-
-=====================================btv=============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b00977f498ea7ad4aa26.jpeg" group-title="oxygen", BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=btv
-
-==========================================cctv4asia========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_CCTV.png" group-title="oxygen", CCTV 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cctv4asia
-
-=====================================cetv1=============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cetv1.png" group-title="oxygen", CETV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cetv1
-
-=======================================cgtn===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtn.png" group-title="oxygen", CGTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cgtn
-
-========================================cgtndocumentary==========================================
-
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtndoc.png" group-title="oxygen", CGTN DOCUMENTARY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cgtndocumentary
-
-===========================================channelnewsasia=======================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cna.png" group-title="oxygen", CHANNEL NEWS ASIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=channelnewsasia
-
-==================================cnbc================================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cnbcint.png" group-title="oxygen", CNBC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cnbc
-
-=======================================daaitv===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_daaitv.png" group-title="oxygen", DAAI INDONESIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=daaitv
-
-====================================dubaisport3==============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dubaisport3.png" group-title="oxygen", DUBAI SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=dubaisport3
-
-====================================dwenglish==============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dw.png" group-title="oxygen", DW TV ASIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=dwenglish
-
-=========================================ebskids=========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ebskids.png" group-title="oxygen", EBS KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=ebskids
-
-========================================edgesport==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/c01f7cb2fad4cfbcf0a7.png" group-title="oxygen", EDGE SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=edgesport
-
-=======================================euronewsasia===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_euronews.png" group-title="oxygen", EURONEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=euronewsasia
-
-=========================================fashiontv=========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_fashiontv.png" group-title="oxygen", FASHION TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=fashiontv
-
-========================================filmax==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/ca22c587c19948f1567e.png" group-title="oxygen", FILMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=filmax
-
-=========================================france24=========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_france24.png" group-title="oxygen", FRANCE 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=france24
-
-=======================================idx===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/93a0add4ed871fcabfd7.jpg" group-title="oxygen", IDX CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=idx
-
-=======================================indosiar===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="oxygen", INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=indosiar
-
-=======================================insight===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/79e2dab75c3bfcea933c.png" group-title="oxygen", INSIGHT TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=insight
-
-========================================inews==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="oxygen", INEWS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=inews
-
-=====================================jaktv=============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jaktv.png" group-title="oxygen", JAK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=jaktv
-
-========================================jitv==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jitv" group-title="oxygen", JITV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=jitv
-
-======================================jpm============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/64a420f0f62df497206a.png" group-title="oxygen", JPM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=jpm
-
-========================================kbs-korea==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c10edc898148799639f.png" group-title="oxygen", KBS KOREA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=kbs-korea
-
-====================================kidszoneplus==============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kidszone.png" group-title="oxygen", KIDS ZONE PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=kidszoneplus
-
-=======================================kompastv===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" group-title="oxygen", KOMPAS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=kompastv
-
-======================================ktv============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" group-title="oxygen", KTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=ktv
-
-====================================lotusmacau==============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_lotusmacau.png" group-title="oxygen", LOTUS MACAU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=lotusmacau
-
-=======================================ltn-family===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/994ca4439869fb20cfc6.png" group-title="oxygen", LTN FAMILY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=ltn-family
-
-========================================mentaritv==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png" group-title="oxygen", MENTARI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=mentaritv
-
-=======================================metrotv===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" group-title="oxygen", METRO TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=metrotv
-
-======================================moji============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="oxygen", MOJI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=moji
-
-====================================nettv-hd==============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="oxygen", NET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nettv-hd
-
-======================================nhkworld============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nhk.png" group-title="oxygen", NHK WORLD (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nhkworld
-
-===========================================nihontv=======================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nippontv.png" group-title="oxygen", NIPPON TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nihontv
-
-=======================================nusantaratv===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ntv.png" group-title="oxygen", NUSANTARA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nusantaratv
-
-=======================================oxygentv===========================================
-
-#EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="oxygen",OXYGEN.ID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=oxygentv
-
-=======================================planetfun===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/f48a09f215f6bc907aaa.png" group-title="oxygen", PLANET FUN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=planetfun
-
-===========================================phoenixchinese=======================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixchinese.png" group-title="oxygen", PHOENIX CHINESE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=phoenixchinese
-
-=======================================phoenixhongkong===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixhk.png" group-title="oxygen", PHOENIX HK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=phoenixhongkong
-
-======================================pop============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b12d9de0667a6dbcff5f.png" group-title="oxygen", POP TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=pop
-
-=========================================qurantv=========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_qurantv.png" group-title="oxygen", QURAN TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=qurantv
-
-====================================redbulltv==============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_redbull.png" group-title="oxygen", RED BULL TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=redbulltv
-
-========================================rtv==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png" group-title="oxygen", RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=rtv
-
-==========================================rodjatv========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rodja.png" group-title="oxygen", RODJA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=rodjatv
-
-========================================sctv==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="oxygen", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=sctv
-
-=======================================salamtv===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_salamtv.png" group-title="oxygen", SALAM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=salamtv
-
-========================================spacetoon==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_spacetoon.png" group-title="oxygen", SPACETOON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=spacetoon
-
-========================================trans7==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trans7.png" group-title="oxygen", TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=trans7
-
-========================================transtv==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_transtv.png" group-title="oxygen", TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=transtv
-
-=======================================tvone===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="oxygen", TV ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvone
-
-=========================================tawaftv=========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tawaftv.png" group-title="oxygen", TAWAF TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tawaftv
-
-========================================toonmax==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_toonmax.png" group-title="oxygen", TOONMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=toonmax
-
-==========================================trtworld========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trt.png" group-title="oxygen", TRT WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=trtworld
-
-====================================tvbnews==============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c8b3b8177e3fb267a74.png" group-title="oxygen", TVBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvbnews
-
-=========================================tv5monde=========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tv5monde.png" group-title="oxygen", TV5 MONDE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tv5monde
-
-======================================tvri============================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvri.png" group-title="oxygen", TVRI NASIONAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvri
-
-======================================tvrisport============================================
-
-#EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_tvrisport.png" group-title="oxygen",TVRI SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvrisport
-
-
-=========================================uchannel=========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_uchannel.png" group-title="oxygen", U CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=uchannel
-
-========================================vchina==========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_channelv.png" group-title="oxygen", CHANNEL V CHINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=vchina
-
-=======================================vtv===========================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png" group-title="oxygen", VIVA TELEVISI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=vtv
-
-===========================================voa=======================================
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_voa.png" group-title="oxygen", VOA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=voa
-
-
-===========================================xingkong=======================================
-
-#EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_xingkong.png" group-title="oxygen",XING KONG CHINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Oxygen TV/5.9.240112 (Linux;Android 11) ExoPlayerLib/2.18.1
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=xingkong
-
-
-
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> LOKAL ID HD
 //========================================================================
@@ -1879,60 +1465,61 @@ http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11801
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://dl.dropboxusercontent.com/s/7o66wychx4m2wmo/cinemax.png" group-title="🎬PREMIUM HBO🎬",A Cinemax CUBMU
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="🎬PREMIUM HBO🎬",A Cinemax CUBMU
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="🎬PREMIUM HBO🎬",A HBO CUBMU
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="🎬PREMIUM HBO🎬",A HBO CUBMU
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png" group-title="🎬PREMIUM HBO🎬",A HBO Family CUBMU
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="🎬PREMIUM HBO🎬",A HBO Family CUBMU
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="🎬PREMIUM HBO🎬",A HBO Hits CUBMU
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="🎬PREMIUM HBO🎬",A HBO Hits CUBMU
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png" group-title="🎬PREMIUM HBO🎬",A HBO Signature CUBMU
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="🎬PREMIUM HBO🎬",A HBO Signature CUBMU
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
 
 ==================================HBO MAX========================================================
 
 #EXTINF:-1 group-title="🎬PREMIUM HBO🎬" tvg-logo="https://i.ibb.co/ym97Fpc/CINEMAX.png",B Cinemax - MAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #EXTINF:-1 group-title="🎬PREMIUM HBO🎬" tvg-logo="https://i.ibb.co/Q95MS4r/HBO.png",B HBO MAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:-1 group-title="🎬PREMIUM HBO🎬" tvg-logo="https://i.ibb.co/SN4p7jS/HBO-FAMILY.png",B HBO Family - MAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbofammax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
 
 #EXTINF:-1 group-title="🎬PREMIUM HBO🎬" tvg-logo="https://i.ibb.co/Q95MS4r/HBO.png",B HBO Hits - MAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #EXTINF:-1 group-title="🎬PREMIUM HBO🎬" tvg-logo="https://i.ibb.co/qdtkwqY/HBO-SIGNATURE.png",B HBO Signature - MAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbosigmax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 
 ==================================HBO HOMETV========================================================
@@ -2037,6 +1624,8 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+
+
 
 
 
@@ -2369,30 +1958,66 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 
 
-
 ==================================================================================
                               🏆LIGA BRIMO🏆
 ==================================================================================
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆",LIGA BRI VD1
+
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://xtv.ooo:8080/3212571066/abc123/350972
+  
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/94
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/621
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 6
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+==================================================================================
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆" , LIGA BRI VD1
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+https://adem-tv.000webhostapp.com/vidot/adem-tv1.m3u8?id=hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆",LIGA BRI VD2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
 https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆",LIGA BRI VD2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆",LIGA BRI VD3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTINF:-1 group-title="🏆LIGA INDONESIA🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU", LIGA BRI VD3
+#EXTINF:-1 group-title="🏆LIGA INDONESIA🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU", LIGA BRI VD4
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆",LIGA BRI HM HD
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/621
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆",LIGA BRI SPORTSTAR 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2405,6 +2030,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+==================================================================================
 
 ==================================================================================
                               🏆SPORTS LOKAL🏆
