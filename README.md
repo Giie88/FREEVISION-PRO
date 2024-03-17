@@ -1276,71 +1276,127 @@ https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a4379
 
 
 ======================================================================================
-                                 🎬PREMIUM HBO🎬
+                                 🎬HBO & CINEMACHI🎬
 ======================================================================================
 
-================================Cinemax CUBMU======================================================
+
+================================HBO Grup CUBMU======================================================
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="🎬PREMIUM HBO🎬",A Cinemax CUBMU
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="🎬HBO & CINEMACHI🎬",A Cinemax CUBMU
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="🎬PREMIUM HBO🎬",A HBO CUBMU
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="🎬HBO & CINEMACHI🎬",A HBO CUBMU
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="🎬PREMIUM HBO🎬",A HBO Family CUBMU
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="🎬HBO & CINEMACHI🎬",A HBO Family CUBMU
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="🎬PREMIUM HBO🎬",A HBO Hits CUBMU
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="🎬HBO & CINEMACHI🎬",A HBO Hits CUBMU
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="🎬PREMIUM HBO🎬",A HBO Signature CUBMU
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="🎬HBO & CINEMACHI🎬",A HBO Signature CUBMU
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
+======================================HBO Grup SG================================================
 
+#EXTINF:-1 tvg-id="1412" tvg-name="CINEMAX HD" tvg-logo="https://hometv.pw/logo/movies/cinemax.png" group-title="🎬HBO & CINEMACHI🎬",B CINEMAX HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://iptvkita.my.id:25461/Toni/0895810355575/36
 
-//========================================================================
+#EXTINF:-1 tvg-id="1411" tvg-name="HBO HD" tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="🎬HBO & CINEMACHI🎬",B HBO HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://iptvkita.my.id:25461/Toni/0895810355575/32
 
+#EXTINF:-1 tvg-id="2902" tvg-name="HBO FAMILY HD" tvg-logo="https://hometv.pw/logo/movies/hbo_family.png" group-title="🎬HBO & CINEMACHI🎬",B HBO FAMILY HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://iptvkita.my.id:25461/Toni/0895810355575/35
 
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="🎬PREMIUM HBO🎬",B Cinemax (Sg)
+#EXTINF:-1 tvg-id="2903" tvg-name="HBO HITS HD" tvg-logo="https://hometv.pw/logo/movies/hbo_hits.png" group-title="🎬HBO & CINEMACHI🎬",B HBO HITS HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://iptvkita.my.id:25461/Toni/0895810355575/34
+
+#EXTINF:-1 tvg-id="2901" tvg-name="HBO SIGN HD" tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png" group-title="🎬HBO & CINEMACHI🎬",B HBO SIGN HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://iptvkita.my.id:25461/Toni/0895810355575/33
+
+======================================HBO Grup SG================================================
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="🎬HBO & CINEMACHI🎬",C Cinemax (Sg)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="🎬PREMIUM HBO🎬",B HBO (Sg)
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="🎬HBO & CINEMACHI🎬",C HBO (Sg)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="🎬PREMIUM HBO🎬",B HBO Family (Sg)
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="🎬HBO & CINEMACHI🎬",C HBO Family (Sg)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="🎬PREMIUM HBO🎬",B HBO Hits (Sg)
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="🎬HBO & CINEMACHI🎬",C HBO Hits (Sg)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="🎬PREMIUM HBO🎬",B HBO Signature (Sg)
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="🎬HBO & CINEMACHI🎬",C HBO Signature (Sg)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+
+
+======================================================================================
+				CINEMACHI
+======================================================================================
+
+#EXTINF:-1 group-title="🎬HBO & CINEMACHI🎬" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",D Cinemachi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 group-title="🎬HBO & CINEMACHI🎬" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",D Cinemachi Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 group-title="🎬HBO & CINEMACHI🎬" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",D Cinemachi Kids
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTINF:-1 group-title="🎬HBO & CINEMACHI🎬" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png",D Cinemachi Max
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 group-title="🎬HBO & CINEMACHI🎬" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png",D Cinemachi Xtra
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
 
 
 ==================================================================================
